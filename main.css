@@ -74,6 +74,9 @@ background-size: 1800% 1800%;
 .box-section {
   min-height: 100vh;
 }
+.box-section2 {
+  min-height: 40vh;
+}
 
 .box{
     width: 1400px;
